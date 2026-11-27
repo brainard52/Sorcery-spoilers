@@ -1,0 +1,324 @@
+{
+  "cards": [
+    {
+      "fields": {
+        "additional_fields": {},
+        "air": "1",
+        "artist": null,
+        "attack": null,
+        "cost": null,
+        "defense": null,
+        "earth": null,
+        "fire": null,
+        "flavor": null,
+        "life": null,
+        "name": "A very Little House",
+        "other_text": null,
+        "power": null,
+        "rarity": "Unique",
+        "rules": "Once per game, your Avatar may return home.",
+        "set": "Baldassare's Travels",
+        "subtypes": null,
+        "type": "Site",
+        "typeline": "A Unique Site where the journey began",
+        "water": null
+      },
+      "id": "24410265-df1e-4611-9b0f-0b48e0b72cb2",
+      "image_ids": [
+        "48189ee01869d188e5bbb6c4ebe329468765c0419ee958e36e09e58259510689.png",
+        "2c9b769aa518182dba8a21dd6529c4764b0653068fd1f5e1024393692222bd26.png",
+        "79f1336b98c0a4662b237e4bdb3e85952691ecb45029574f259fb005bea20a46.png"
+      ]
+    },
+    {
+      "fields": {
+        "additional_fields": {},
+        "air": null,
+        "artist": null,
+        "attack": null,
+        "cost": null,
+        "defense": null,
+        "earth": null,
+        "fire": "1",
+        "flavor": null,
+        "life": null,
+        "name": "Endless Desert",
+        "other_text": null,
+        "power": null,
+        "rarity": "Exceptional",
+        "rules": "Far East Genesis -> Draw a Site",
+        "set": "Baldassare's Travels",
+        "subtypes": "Desert",
+        "type": "Site",
+        "typeline": "An Exceptional Site of ???",
+        "water": null
+      },
+      "id": "2a0b37f0-1565-46cf-aabd-dc11992871fe",
+      "image_ids": [
+        "2f30e4ac2490729a75d08e037ebd581cbd8797f631f80293ed28ebf666d4cb73.png",
+        "ae6ce23aa1faa19ab6213f79e08ab8b1acb370a4e69da64006de367fb171ed68.png"
+      ]
+    },
+    {
+      "fields": {
+        "additional_fields": {},
+        "air": "99",
+        "artist": null,
+        "attack": null,
+        "cost": null,
+        "defense": null,
+        "earth": null,
+        "fire": null,
+        "flavor": null,
+        "life": null,
+        "name": "Nelly Bly",
+        "other_text": null,
+        "power": "2",
+        "rarity": null,
+        "rules": "...st and Far West ...\n\n... circumnavigate the realm ... goal, draw three spells.",
+        "set": "Baldassare's Travels",
+        "subtypes": null,
+        "type": "Minion",
+        "typeline": null,
+        "water": null
+      },
+      "id": "657e829d-3696-4a70-8090-6e1cb4c53b9b",
+      "image_ids": [
+        "06a675ec23f633b60820530566b545c1c96385fb935469fc988eaa5ebb6ec406.png",
+        "7000762ce1aff44e8eeadffcfc0a342199f1e6ddc9368b4b8ae18d95760c2afc.png",
+        "3890050929c63ec9e3d5ed5a8b874d33f62922f3e538ebe57385a509bd1e7466.png"
+      ]
+    },
+    {
+      "fields": {
+        "additional_fields": {},
+        "air": "2",
+        "artist": null,
+        "attack": null,
+        "cost": "3",
+        "defense": null,
+        "earth": null,
+        "fire": null,
+        "flavor": null,
+        "life": null,
+        "name": "Zig Zag Dragon Fly",
+        "other_text": null,
+        "power": "3",
+        "rarity": "Exceptional",
+        "rules": "Airborne, Movement +1\nCan only move diagonally.",
+        "set": "Baldassare's Travels",
+        "subtypes": "Beast",
+        "type": "Minion",
+        "typeline": "An Exceptional Beast buzzes ...",
+        "water": null
+      },
+      "id": "8a055bb4-b468-45ad-9008-e91ff4c16814",
+      "image_ids": [
+        "5db83795ddd9b46527983249f537a9ee0b022904e81802b7bca0cb06b9dd809e.png"
+      ]
+    },
+    {
+      "fields": {
+        "additional_fields": {},
+        "air": "1",
+        "artist": "Juan Machuca",
+        "attack": null,
+        "cost": "2",
+        "defense": null,
+        "earth": null,
+        "fire": null,
+        "flavor": null,
+        "life": null,
+        "name": "Boundless Thought ",
+        "other_text": null,
+        "power": null,
+        "rarity": "Elite",
+        "rules": "Allied minions at affected sites are Unique and Airborne, and can't be disabled, immobile, or silenced.",
+        "set": "Baldassare's Travels",
+        "subtypes": "Aura",
+        "type": "Aura",
+        "typeline": "An Elite Aura of soaring fancy",
+        "water": null
+      },
+      "id": "c66e34a9-634c-40b6-a2f2-a10e88ab2204",
+      "image_ids": [
+        "a2ebc2d821d5dfb78613af5ba625e5be2f07a03cce072eb27a066b58f31245db.jpg"
+      ]
+    },
+    {
+      "fields": {
+        "additional_fields": {},
+        "air": null,
+        "artist": null,
+        "attack": null,
+        "cost": null,
+        "defense": null,
+        "earth": null,
+        "fire": null,
+        "flavor": null,
+        "life": null,
+        "name": "Ziggurat ???",
+        "other_text": null,
+        "power": null,
+        "rarity": null,
+        "rules": null,
+        "set": "Baldassare's Travels",
+        "subtypes": null,
+        "type": null,
+        "typeline": null,
+        "water": null
+      },
+      "id": "d110e722-47e2-4fe3-be72-f7ac35283186",
+      "image_ids": [
+        "1ea6952174ee30cbaccb057299beab1c9d1c29883a63680735fbd862ca1d2abb.png"
+      ]
+    },
+    {
+      "fields": {
+        "additional_fields": {},
+        "air": "2",
+        "artist": null,
+        "attack": null,
+        "cost": "3",
+        "defense": null,
+        "earth": null,
+        "fire": null,
+        "flavor": null,
+        "life": null,
+        "name": "Flying Machine",
+        "other_text": null,
+        "power": "4",
+        "rarity": "Ordinary",
+        "rules": "Airborne\nDies to any damage.",
+        "set": "Baldassare's Travels",
+        "subtypes": "Mortal",
+        "type": "Minion",
+        "typeline": "Ordinary Mortals in fragile flight",
+        "water": null
+      },
+      "id": "ee19f85a-b185-4d29-9709-8702ea3f88e6",
+      "image_ids": [
+        "d482eb512b2257694a26052d516fffe0a3732a2c0da9400a8886c7e01f9821df.jpg"
+      ]
+    },
+    {
+      "fields": {
+        "additional_fields": {},
+        "air": null,
+        "artist": null,
+        "attack": null,
+        "cost": "5",
+        "defense": null,
+        "earth": null,
+        "fire": null,
+        "flavor": null,
+        "life": null,
+        "name": "Realm in a Bottle",
+        "other_text": null,
+        "power": null,
+        "rarity": "Unique",
+        "rules": "Genesis -> Create a separate 2x2 realm. Starting with you, players alternate playing their top sites ... may summon and conjure there ... nothing goes in or out. If the bottle ... inside is banished. ",
+        "set": "Baldassare's Travels",
+        "subtypes": "Relic",
+        "type": "Artifact",
+        "typeline": "A Unique Relic with a world within",
+        "water": null
+      },
+      "id": "f9063965-30ba-4710-bbba-ff649705e57d",
+      "image_ids": [
+        "1b2a4c20c0241188d67ad3b26185e1581130ade41381588c82f2779830130dc4.png",
+        "76cd588de531bf79cc18855ab3f65fc70ac10bb24753b5b65d93d2997727a066.png",
+        "1c3dc6d4d6f6a837803326b36a9181bcf26b24d706cddf098beabeb802315ded.png",
+        "b7bc44df34d69eb2c3c12bad0aac3b0e7c3493a69a065381c1a03d1989bb65d0.png",
+        "5b062c5247bebab40c84731909408ce3c06e8412ad61280ada367f710043e08b.png",
+        "a5488361b781e4b449ff1f7c43a690c1c951361102c19fa43d11eef1a38d5d63.png",
+        "39b0ae411ebc89f0b6ce66082b75d887888852c500a51445c0da00299c6d8c8a.png"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "06a675ec23f633b60820530566b545c1c96385fb935469fc988eaa5ebb6ec406.png",
+      "url": "assets/06a675ec23f633b60820530566b545c1c96385fb935469fc988eaa5ebb6ec406.png"
+    },
+    {
+      "id": "1b2a4c20c0241188d67ad3b26185e1581130ade41381588c82f2779830130dc4.png",
+      "url": "assets/1b2a4c20c0241188d67ad3b26185e1581130ade41381588c82f2779830130dc4.png"
+    },
+    {
+      "id": "1c3dc6d4d6f6a837803326b36a9181bcf26b24d706cddf098beabeb802315ded.png",
+      "url": "assets/1c3dc6d4d6f6a837803326b36a9181bcf26b24d706cddf098beabeb802315ded.png"
+    },
+    {
+      "id": "1ea6952174ee30cbaccb057299beab1c9d1c29883a63680735fbd862ca1d2abb.png",
+      "url": "assets/1ea6952174ee30cbaccb057299beab1c9d1c29883a63680735fbd862ca1d2abb.png"
+    },
+    {
+      "id": "2c9b769aa518182dba8a21dd6529c4764b0653068fd1f5e1024393692222bd26.png",
+      "url": "assets/2c9b769aa518182dba8a21dd6529c4764b0653068fd1f5e1024393692222bd26.png"
+    },
+    {
+      "id": "2f30e4ac2490729a75d08e037ebd581cbd8797f631f80293ed28ebf666d4cb73.png",
+      "url": "assets/2f30e4ac2490729a75d08e037ebd581cbd8797f631f80293ed28ebf666d4cb73.png"
+    },
+    {
+      "id": "3890050929c63ec9e3d5ed5a8b874d33f62922f3e538ebe57385a509bd1e7466.png",
+      "url": "assets/3890050929c63ec9e3d5ed5a8b874d33f62922f3e538ebe57385a509bd1e7466.png"
+    },
+    {
+      "id": "39b0ae411ebc89f0b6ce66082b75d887888852c500a51445c0da00299c6d8c8a.png",
+      "url": "assets/39b0ae411ebc89f0b6ce66082b75d887888852c500a51445c0da00299c6d8c8a.png"
+    },
+    {
+      "id": "48189ee01869d188e5bbb6c4ebe329468765c0419ee958e36e09e58259510689.png",
+      "url": "assets/48189ee01869d188e5bbb6c4ebe329468765c0419ee958e36e09e58259510689.png"
+    },
+    {
+      "id": "5b062c5247bebab40c84731909408ce3c06e8412ad61280ada367f710043e08b.png",
+      "url": "assets/5b062c5247bebab40c84731909408ce3c06e8412ad61280ada367f710043e08b.png"
+    },
+    {
+      "id": "5db83795ddd9b46527983249f537a9ee0b022904e81802b7bca0cb06b9dd809e.png",
+      "url": "assets/5db83795ddd9b46527983249f537a9ee0b022904e81802b7bca0cb06b9dd809e.png"
+    },
+    {
+      "id": "7000762ce1aff44e8eeadffcfc0a342199f1e6ddc9368b4b8ae18d95760c2afc.png",
+      "url": "assets/7000762ce1aff44e8eeadffcfc0a342199f1e6ddc9368b4b8ae18d95760c2afc.png"
+    },
+    {
+      "id": "76cd588de531bf79cc18855ab3f65fc70ac10bb24753b5b65d93d2997727a066.png",
+      "url": "assets/76cd588de531bf79cc18855ab3f65fc70ac10bb24753b5b65d93d2997727a066.png"
+    },
+    {
+      "id": "79f1336b98c0a4662b237e4bdb3e85952691ecb45029574f259fb005bea20a46.png",
+      "url": "assets/79f1336b98c0a4662b237e4bdb3e85952691ecb45029574f259fb005bea20a46.png"
+    },
+    {
+      "id": "a2ebc2d821d5dfb78613af5ba625e5be2f07a03cce072eb27a066b58f31245db.jpg",
+      "url": "assets/a2ebc2d821d5dfb78613af5ba625e5be2f07a03cce072eb27a066b58f31245db.jpg"
+    },
+    {
+      "id": "a5488361b781e4b449ff1f7c43a690c1c951361102c19fa43d11eef1a38d5d63.png",
+      "url": "assets/a5488361b781e4b449ff1f7c43a690c1c951361102c19fa43d11eef1a38d5d63.png"
+    },
+    {
+      "id": "ae6ce23aa1faa19ab6213f79e08ab8b1acb370a4e69da64006de367fb171ed68.png",
+      "url": "assets/ae6ce23aa1faa19ab6213f79e08ab8b1acb370a4e69da64006de367fb171ed68.png"
+    },
+    {
+      "id": "b7bc44df34d69eb2c3c12bad0aac3b0e7c3493a69a065381c1a03d1989bb65d0.png",
+      "url": "assets/b7bc44df34d69eb2c3c12bad0aac3b0e7c3493a69a065381c1a03d1989bb65d0.png"
+    },
+    {
+      "id": "d482eb512b2257694a26052d516fffe0a3732a2c0da9400a8886c7e01f9821df.jpg",
+      "url": "assets/d482eb512b2257694a26052d516fffe0a3732a2c0da9400a8886c7e01f9821df.jpg"
+    }
+  ],
+  "schema_version": 1,
+  "sets": [
+    {
+      "name": "Baldassare's Travels",
+      "released": false
+    }
+  ]
+}
