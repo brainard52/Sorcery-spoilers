@@ -15,10 +15,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout public snapshot
@@ -37,7 +34,22 @@ jobs:
       - name: Upload website
         uses: actions/upload-pages-artifact@v4
         with:
+          name: github-pages
           path: _site
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      # The artifact service can briefly return an empty listing after a
+      # successful upload. See actions/deploy-pages#451.
+      - name: Allow artifact indexing to finish
+        run: sleep 60
       - name: Deploy website
         id: deployment
         uses: actions/deploy-pages@v5
+        with:
+          artifact_name: github-pages
